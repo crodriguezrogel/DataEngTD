@@ -1,5 +1,6 @@
 Ronda;Fecha;Local;Vistante;Goles Local;Goles Visitante;Total Goles;Resultado
 33;2024-04-29 00:00:00;Barcelona;Valencia;4;2;;Home
+33;2024-04-29 00:00:00;Barcelona;Valencia;4;2;;Home
 33;2024-04-28 00:00:00;Betis;Sevilla;1;1;2;
 33;2024-04-28 00:00:00;Villarreal;Rayo Vallecano;3;0;3;Home
 33;2024-04-28 00:00:00;Granada CF;Osasuna;3;0;;
@@ -97,6 +98,7 @@ Ronda;Fecha;Local;Vistante;Goles Local;Goles Visitante;Total Goles;Resultado
 24;2024-02-10 00:00:00;Las Palmas;Valencia;2;0;2;Home
 24;2024-02-10 00:00:00;Real Madrid;Girona;4;0;4;Home
 24;2024-02-10 00:00:00;Real Sociedad;Osasuna;0;1;1;Away
+24;2024-02-10 00:00:00;Alaves;Villarreal;1;1;2;Tie
 24;2024-02-10 00:00:00;Alaves;Villarreal;1;1;2;Tie
 24;2024-02-09 00:00:00;Cadiz CF;Betis;0;2;2;Away
 23;2024-02-05 00:00:00;Rayo Vallecano;Sevilla;1;2;3;Away
@@ -328,4 +330,5 @@ Ronda;Fecha;Local;Vistante;Goles Local;Goles Visitante;Total Goles;Resultado
 1;2023-08-12 00:00:00;Las Palmas;Mallorca;1;1;2;Tie
 1;2023-08-12 00:00:00;Real Sociedad;Girona;1;1;2;Tie
 1;2023-08-11 00:00:00;Sevilla;Valencia;1;2;3;Away
+1;2023-08-11 00:00:00;Almeria;Rayo Vallecano;0;2;2;Away
 1;2023-08-11 00:00:00;Almeria;Rayo Vallecano;0;2;2;Away
