@@ -5,7 +5,7 @@ Recibe una cálida bienvenida! 👋
 El presente trabajo tiene la intención de compartir los aprendizajes obtenidos que conforman todo el programa 'Fundamentos de Ingeniería de Datos'. Los contenidos están organizados en módulos con lecciones, análisis de casos y prácticas desarrolladas en clases.
 
 [Módulo 1 - Orientación al perfil y metodología del curso](Modulo_02/Readme.md)  
-[Módulo 2 - Fundamentos de programación python para ingenieros de datos](Readme.md)  
+[Módulo 2 - Fundamentos de programación python para ingenieros de datos](Modulo_02/Readme.md)
 [Módulo 3 - Obtención y preparación de datos ](Readme.md)  
 [Módulo 4 - Bases de datos para Ingenieros de datos](Readme.md)  
 [Módulo 5 - Fundamentos de arquitectura y modelamiento de datos](Readme.md)  
